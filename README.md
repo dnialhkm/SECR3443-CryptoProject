@@ -6,7 +6,7 @@ CryptoDetective is an interactive browser-based educational game that teaches me
 
 Play the game online:
 
-[https://yourusername.github.io/cryptodetective/](https://dnialhkm.github.io/CryptoProject/)
+https://dnialhkm.github.io/CryptoProject/
 
 ---
 
